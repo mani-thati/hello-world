@@ -1,5 +1,3 @@
-# hello-world
-My first Repository in GitHub.
 **About Myself:**
 I am currently pursuing a Masters in Computational Engineering at Mississippi State University. Completed 2 semesters with 3.33 CGPA followed by 4.00 CGPA in Fall semester 2023 and am eager to bring my academic background, leadership skills, and passion for learning to contribute to the Engineering Domain.
 
